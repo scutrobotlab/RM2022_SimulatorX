@@ -8,17 +8,17 @@
 
 我们建议您先阅读以下内容，以便于更好地理解本文档：
 
-- [RM2021 华南理工大学 华南虎 RMUC 模拟器开源](https%3A%2F%2Fbbs.robomaster.com%2Fforum.php%3Fmod%3Dviewthread%26tid%3D12194)
-- [GitHub Wiki RM2021_simulation](https%3A%2F%2Fgithub.com%2Fscutrobotlab%2FRM2021_simulation%2Fwiki)
+- [RM2021 华南理工大学 华南虎 RMUC 模拟器开源](https://bbs.robomaster.com/forum.php?mod=viewthread&tid=12194)
+- [GitHub Wiki RM2021_simulation](https://github.com/scutrobotlab/RM2021_simulation/wiki)
 
 相关资料请移步：
 
 - RoboMaster 论坛
-- [GitHub Wiki](https%3A%2F%2Fgithub.com%2Fscutrobotlab%2FRM2022_SimulatorX%2Fwiki)
-- [SimulatorX 官方网站](https%3A%2F%2Fsim.scutbot.cn%2F)
-- [SimulatorX 说明书](https%3A%2F%2Fintro.sim.scutbot.cn)
-- [SimulatorX 下载站](https%3A%2F%2Fdl.sim.scutbot.cn%2F)
-- [SimulatorX 发布会视频](https%3A%2F%2Fwww.bilibili.com%2Fvideo%2FBV1ua411T7Gh)
+- [GitHub Wiki](https://github.com/scutrobotlab/RM2022_SimulatorX/wiki)
+- [SimulatorX 官方网站](https://sim.scutbot.cn/)
+- [SimulatorX 说明书](https://intro.sim.scutbot.cn/)
+- [SimulatorX 下载站](https://dl.sim.scutbot.cn/)
+- [SimulatorX 发布会视频](https://www.bilibili.com/video/BV1ua411T7Gh)
 
 ## 研发历程
 
