@@ -13,7 +13,7 @@
 
 相关资料请移步：
 
-- RoboMaster 论坛
+- [RoboMaster 论坛](https://bbs.robomaster.com/forum.php?mod=viewthread&tid=22206)
 - [GitHub Wiki](https://github.com/scutrobotlab/RM2022_SimulatorX/wiki)
 - [SimulatorX 官方网站](https://sim.scutbot.cn/)
 - [SimulatorX 说明书](https://intro.sim.scutbot.cn/)
